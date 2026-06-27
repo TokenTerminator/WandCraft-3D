@@ -1,0 +1,6 @@
+{
+  "name": "Magic Wand Creator",
+  "description": "An interactive 3D magic wand creation studio for kids. Customize your wand's pommel, grip, shaft, and tip, choose presets of famous wizards, and export your creation as a 3D-printable STL file.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
